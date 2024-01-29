@@ -232,7 +232,7 @@ export default Vue.component('resume', {
 .preview span {
   position: absolute;
   max-width: 100%;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 300;
   color: rgba(0, 0, 0, 0.75);
   width: 100%;

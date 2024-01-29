@@ -2,74 +2,96 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: John
+  first: Thirapat
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I'm just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: Amornsin
+about: Versatile IT support and Systems Engineer with over 5 years 
+       of cross-functional leadership in implementation validation and 
+       deployment for the whole organization. Exceptional knowledge of CI/CD 
+       operation with hands-on experience of DevOps Engineer over 3 years.
+# about: Hi, my name is John Doe. I'm just about the most boring type of person you could
+#        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
+#        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+  
+position: Senior DevOps Engineer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1988
+  location: Nakhon Pathom
 
 # you may add more experiences by duplicating the template
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: Riverpark Consultant Co,. Ltd.
+  position: Senior DevOps Engineer ( Outsourcing at AIS SQAR )
+  timeperiod: May 2023 - Present
+  description: DevSecOps, CI/CD GitOps
+  website: https://riverpark.co.th
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: TP Consulting Co,. Ltd.
+  position: DevOps Engineer ( Outsourcing at AIS ITSO )
+  timeperiod: April 2019 - April 2023
+  description: CI/CD, DevSecOps, Observability, OAAS
+  website: http://tpcrecruit.com/
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: Suwan Golf & Country Club Nakhon Pathom
+  position: System Engineer, Administrator, Graphic Design
+  timeperiod: January 2015 - January 2018
+  description: Management, Maintain Server and Client, Application ERP ( Golf Management )
+  website: https://www.suwangolf.com/
+
+- company: Amorn Electronics ( Head Office ) Salaya Sai 5
+  position: IT Helpdesk, IT Support, Data Engineer
+  timeperiod: April 2014 - January 2015
+  description: Maintain existing computer programs
+  website: https://amornonline.com
+
+- company: BIG C Supercenter Nakhon Pathom
+  position: EDP Electronic Data Processing
+  timeperiod: May 2013 - March 2014
+  description: Management, Maintain Server and Client, POS (Point of Sale)
+  website: https://www.bigc.co.th/
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
+- degree: Bachelor's in Information Technology and Networking (IT)
+  timeperiod: March 2007 - April 2012
+  description: Major in Information Technology and Networking, Rajabhat University, Nakhon Pathom, Thailand.
+  website: https://npru.ac.th
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+# - degree: Bachelor of Science
+#   timeperiod: March 2009 - December 2011
+#   description: Major in Engineering, University B, Los Angeles, USA.
 
 # skill level goes from 0 to 100
 skills:
-- name: HTML5
-  level: 99
-- name: CSS3
-  level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
-  level: 80
-- name: ES.Next
+- name: K8S
   level: 70
 - name: Docker
-  level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+  level: 80
+- name: Github Action
+  level: 70
+- name: Gitlab CI
+  level: 70
+- name: TRIVY
+  level: 80
+- name: Helm
+  level: 70
+- name: ArgoCD
+  level: 70
+- name: Jenkins
+  level: 90
+- name: ELK STACK
+  level: 70
+knowledge: ..
+# knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
+#   (English and Klingon).
 
-projects:
-- name: best-resume-ever
-  platform: Vue
-  timeperiod: February 2016
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+# projects:
+# - name: Development of program packet sniffer with python2.7
+#   platform: Python
+#   timeperiod: April 2012
+#   description: -
+#   url: 
 
 # optional, not all resume templates have hobbies included
 hobbies:
@@ -77,9 +99,9 @@ hobbies:
   iconClass: fa fa-gamepad
   url: https://example.com
 
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
+# - name: Drawing
+#   iconClass: fa fa-pencil
+#   url: https://example.com
 
 contributions:
 - name: best-resume-ever
@@ -87,12 +109,13 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: wisineethirapat@gmail.com
+  phone: 086 401 8079
+  street: 211 25 Mokkara Roard Boplub Mueang 73000
+  city: Nakhon Pathom
+  website: https://thirapat.com
+  github: thirapat12
+  linkedin: thirapat
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
